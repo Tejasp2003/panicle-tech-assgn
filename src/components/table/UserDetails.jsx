@@ -1,6 +1,6 @@
 
 import { useParams } from "react-router-dom";
-import rows from "../../../public/data/data.json";
+import rows from "../../../public/data.json";
 
 const UserDetails = () => {
 

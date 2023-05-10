@@ -1,6 +1,6 @@
 import { DataGrid } from "@mui/x-data-grid";
 
-import userRows from "../../public/data/data.json";
+import userRows from "../../public/data.json";
 
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";

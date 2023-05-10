@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Chart from "./pages/Chart";
 import CountryPopulationChart from "./components/charts/CountryPopulationChart";
 import UserWithAgeAbove30 from "./components/charts/UserWithAgeAbove30Chart";
-import values from "../public/data/data.json";
+import values from "../public/data.json";
 import DataTable from "./pages/Table";
 import UserDetails from "./components/table/UserDetails";
 import { Provider } from "react-redux";
